@@ -1,3 +1,2 @@
-# math-is-hard
+# stats concepts for data science
 
-##### This repo will have everything I have done in improving my math understanding and skills. 
