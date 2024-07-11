@@ -5,4 +5,4 @@ This repo will host practices and exercises with respect to important statistica
 
 ### Resource that I find helpful in learning these concepts 
 
-[The Bonston University EK381 Stats for Data Scientists Course]https://bobaknazer.github.io/probstatdata/
+[The Bonston University EK381 Stats for Data Scientists Course](https://bobaknazer.github.io/probstatdata/)
