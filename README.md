@@ -1,4 +1,4 @@
-### Statistics And Probability Concepts for Data Science
+### Statistics and Probability Concepts for Data Science
 
 This repo will host practices and exercises with respect to important statistical concepts applicable to ML/AI/DL model training.
 
